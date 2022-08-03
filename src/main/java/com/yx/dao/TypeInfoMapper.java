@@ -31,5 +31,5 @@ public interface TypeInfoMapper {
      */
     void deleteTypeByIds(List<Integer> id);
 
-    //List<TypeInfo> queryTypeName();
+    List<TypeInfo> queryTypeName();
 }
