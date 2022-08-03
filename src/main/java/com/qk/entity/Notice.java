@@ -1,8 +1,7 @@
 package com.qk.entity;
 
-import com.alibaba.fastjson.annotation.JSONField;
 import org.springframework.format.annotation.DateTimeFormat;
-
+import com.alibaba.fastjson.annotation.JSONField;
 import java.io.Serializable;
 import java.util.Date;
 
