@@ -18,7 +18,6 @@ public interface IVerifyCodeGen {
 
     /**
      * 生成验证码对象
-     *
      * @param width
      * @param height
      * @return
