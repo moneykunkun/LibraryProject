@@ -8,7 +8,6 @@ import java.io.Serializable;
 public class DataInfo implements Serializable {
 
     private static final long serialVersionUID = 1L;
-
     private Integer code;
     private String msg;
     private Object data; //json数据
